@@ -14,8 +14,8 @@
         "fix-lint": "eslint  src/** --ext .js,.jsx --fix --ignore-pattern __tests__ --ignore-pattern example --ignore-pattern awesomplete"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/anasamo92/focus-components-updated.git"
+        "type": "git",
+        "url": "git+https://github.com/anasamo92/focus-components-updated.git"
     },
     "betterScripts": {
         "babelify": {
