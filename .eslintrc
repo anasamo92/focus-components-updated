@@ -1,0 +1,6 @@
+{
+    "extends": "updated",
+    "globals": {
+        "componentHandler": true
+    }
+}
