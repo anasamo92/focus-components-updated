@@ -1,6 +1,5 @@
-
 import { component as Bar } from 'focus-components-updated/application/bar';
-import dispatcher from 'focus-core-updated/dispatcher',
+import dispatcher from 'focus-core-updated/dispatcher';
 
 const Cartridge = React.createClass({
     render() {

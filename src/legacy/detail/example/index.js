@@ -1,5 +1,5 @@
-import { component as Detail } from 'focus-components/common/detail';
-import { component as Block } from 'focus-components/commmon/block';
+import { component as Detail } from 'focus-components-updated/common/detail';
+import { component as Block } from 'focus-components-updated/commmon/block';
 
 const DetailSample = React.createClass({
     render() {

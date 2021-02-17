@@ -17,7 +17,7 @@ let roleMixin = {
         hasAll: type('array')
     },
     componentWillMount() {
-        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components/components/role instead');
+        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components-updated/components/role instead');
     },
     render() {
         let userRoles = user.getRoles();

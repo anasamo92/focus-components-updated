@@ -1,5 +1,5 @@
-import Grid from 'focus-components/common/grid';
-import Column from 'focus-components/common/column';
+import Grid from 'focus-components-updated/common/grid';
+import Column from 'focus-components-updated/common/column';
 
 const GreySquare = React.createClass({
     render() {

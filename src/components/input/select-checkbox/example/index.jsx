@@ -1,5 +1,5 @@
-import SelectCheckbox from 'focus-components/components/input/select-checkbox';
-import Button from 'focus-components/components/button';
+import SelectCheckbox from 'focus-components-updated/components/input/select-checkbox';
+import Button from 'focus-components-updated/components/button';
 import { pull } from 'lodash';
 
 const possibleValues = [

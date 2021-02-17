@@ -17,7 +17,7 @@ const Progress = {
         };
     },
     componentWillMount() {
-        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components/components/progress-bar instead');
+        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components-updated/components/progress-bar instead');
     },
     componentDidMount() {
         const bar = ReactDOM.findDOMNode(this.refs.bar);

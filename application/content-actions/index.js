@@ -21,7 +21,7 @@ const ContentActions = {
 
     /** @inheritdoc */
     componentWillMount() {
-        console.warn('FocusComponents 2.2.0: this component is deprecated, please use components from focus-components/components/layout folder');
+        console.warn('FocusComponents 2.2.0: this component is deprecated, please use components from focus-components-updated/components/layout folder');
         applicationStore.addActionsChangeListener(this._handleComponentChange);
     },
 

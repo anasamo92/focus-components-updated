@@ -1,5 +1,5 @@
-import { component as Block } from 'focus-components/common/block';
-import { mixin as formMixin } from 'focus-components/common/form';
+import { component as Block } from 'focus-components-updated/common/block';
+import { mixin as formMixin } from 'focus-components-updated/common/form';
 
 const domain = {
     DO_TEXT: {

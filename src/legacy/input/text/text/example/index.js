@@ -1,5 +1,5 @@
 const InputText = FocusComponents.common.input.text.component;
-import { component as InputText } from 'focus-components/common/input/text';
+import { component as InputText } from 'focus-components-updated/common/input/text';
 
 const InputTextSample = React.createClass({
     /**

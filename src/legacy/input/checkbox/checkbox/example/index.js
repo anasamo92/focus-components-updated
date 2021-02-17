@@ -1,5 +1,5 @@
 // Components
-import { component as Checkbox } from 'focus-components/common/input/checkbox';
+import { component as Checkbox } from 'focus-components-updated/common/input/checkbox';
 
 const InputCheckboxSample = React.createClass({
     /**

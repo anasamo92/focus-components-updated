@@ -1,4 +1,4 @@
-import Label from 'focus-components/components/label';
+import Label from 'focus-components-updated/components/label';
 
 function LabelExample() {
     return (

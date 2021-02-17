@@ -26,7 +26,7 @@ const infosFn = function infos() {
         FOCUS COMPONENTS
 
         version: ${infos.version}
-        focus-components: ${infos.homepage}
+        focus-components-updated: ${infos.homepage}
         documentation: ${infos.documentation}
         issues: ${infos.bugs.url}
         `

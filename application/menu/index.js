@@ -12,7 +12,7 @@ import Button from '../../components/button';
 const Menu = {
     mixins: [stylabe, popinProperties],/** @inheritedProps*/
     componentWillMount() {
-        console.warn('FocusComponents 2.2.0: this component is deprecated, please use component from focus-components/components/menu');
+        console.warn('FocusComponents 2.2.0: this component is deprecated, please use component from focus-components-updated/components/menu');
     },
     /** @inheritedProps*/
     getDefaultProps() {

@@ -1,6 +1,6 @@
 import React from 'react';
-import Panel from 'focus-components/components/panel';
-import { mixin as formMixin } from 'focus-components/common/form';
+import Panel from 'focus-components-updated/components/panel';
+import { mixin as formMixin } from 'focus-components-updated/common/form';
 
 const domain = {
     DO_TEXT: {
