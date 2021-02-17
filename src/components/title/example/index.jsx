@@ -1,4 +1,4 @@
-import Title from 'focus-components-updated/components/title';
+import Title from 'focus-components/components/title';
 
 function TitleExample() {
     return (

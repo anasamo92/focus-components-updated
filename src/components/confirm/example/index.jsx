@@ -1,9 +1,9 @@
 // Dependencies
 import React from 'react';
-import FirstWrapper from 'focus-components-updated/components/confirm';
+import FirstWrapper from 'focus-components/components/confirm';
 import confirm from 'focus-core-updated/application/confirm';
-import Input from 'focus-components-updated/components/input/text';
-import AutocompleteSelect from 'focus-components-updated/components/input/autocomplete-select';
+import Input from 'focus-components/components/input/text';
+import AutocompleteSelect from 'focus-components/components/input/autocomplete-select';
 
 const ConfirmExample = React.createClass({
     // This code is for the first confirm example

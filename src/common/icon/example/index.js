@@ -1,4 +1,4 @@
-import { component as Icon } from 'focus-components-updated/common/icon';
+import { component as Icon } from 'focus-components/common/icon';
 
 const IconSample = React.createClass({
     /**

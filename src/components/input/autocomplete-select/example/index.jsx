@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import AutocompleteSelect from 'focus-components-updated/components/input/autocomplete-select';
+import AutocompleteSelect from 'focus-components/components/input/autocomplete-select';
 import { init } from 'focus-core-updated/translation';
 
 const data = [

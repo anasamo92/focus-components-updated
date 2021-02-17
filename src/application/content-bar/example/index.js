@@ -1,4 +1,4 @@
-import { component as ContentBar } from 'focus-components-updated/application/content-bar';
+import { component as ContentBar } from 'focus-components/application/content-bar';
 
 const ContentBarExample = React.createClass({
     render() {

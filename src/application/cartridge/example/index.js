@@ -1,5 +1,5 @@
 
-import { component as Cartridge } from 'focus-components-updated/application/cartridge';
+import { component as Cartridge } from 'focus-components/application/cartridge';
 import dispatcher from 'focus-core-updated/dispatcher';
 
 const CartridgeContent = React.createClass({

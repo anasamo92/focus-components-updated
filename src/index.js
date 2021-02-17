@@ -42,7 +42,7 @@ export default {
     * Display documentation data
     */
     DOCUMENTATION() {
-        console.log('documentation: http://kleegroup.github.io/focus-components-updated');
+        console.log('documentation: http://kleegroup.github.io/focus-components');
         console.log('components available');
         console.table(infos.components);
         console.log(`repository: ${infos.repository.url}`);

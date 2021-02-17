@@ -42,7 +42,7 @@ const Dropdown = {
     /** @inheritdoc */
     componentWillMount() {
         this._htmlId = uuid.v4();
-        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components-updated/components/dropdown or focus-components-updated/components/icon-dropdown instead');
+        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components/components/dropdown or focus-components/components/icon-dropdown instead');
 
     },
 

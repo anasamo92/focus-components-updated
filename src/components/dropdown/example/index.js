@@ -1,4 +1,4 @@
-import { component as Dropdown } from 'focus-components-updated/common/select-action';
+import { component as Dropdown } from 'focus-components/common/select-action';
 
 const operationList = [
     {

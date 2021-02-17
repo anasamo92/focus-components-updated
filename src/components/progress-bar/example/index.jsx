@@ -1,4 +1,4 @@
-import ProgressBar from 'focus-components-updated/components/progess-bar';
+import ProgressBar from 'focus-components/components/progess-bar';
 
 const ProgressBarExample = React.createClass({
     getInitialState() {

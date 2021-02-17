@@ -1,7 +1,7 @@
 import { actionBuilder } from 'focus-core-updated/application';
-import { component as Panel } from 'focus-components-updated/components/panel';
-import { mixin as formMixin } from 'focus-components-updated/common/form';
-import { component as MessageCenter } from 'focus-components-updated/application/message-center';
+import { component as Panel } from 'focus-components/components/panel';
+import { mixin as formMixin } from 'focus-components/common/form';
+import { component as MessageCenter } from 'focus-components/application/message-center';
 import { init } from 'focus-core-updated/translation';
 
 const resources = {

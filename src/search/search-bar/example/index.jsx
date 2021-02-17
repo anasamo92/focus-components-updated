@@ -1,4 +1,4 @@
-import { component as SearchBar } from 'focus-components-updated/search/search-bar';
+import { component as SearchBar } from 'focus-components/search/search-bar';
 import { QuickSearchStore } from 'focus-core-updated/store/search'
 import { actionBuilder } from 'focus-core-updated/search';
 

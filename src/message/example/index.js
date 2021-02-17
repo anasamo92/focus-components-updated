@@ -1,4 +1,4 @@
-import { component as Message } from 'focus-components-updated/message';
+import { component as Message } from 'focus-components/message';
 
 const MessageSample = React.createClass({
     getInitialState() {

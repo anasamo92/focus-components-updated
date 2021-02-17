@@ -26,7 +26,7 @@ let displayCheckboxMixin = {
         style: type('object')
     },
     componentWillMount() {
-        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components-updated/components/display/checkbox/ instead');
+        console.warn('FocusComponents 2.2.0: this component is deprecated, please use focus-components/components/display/checkbox/ instead');
     },
     /**
      * Render the boolean value.

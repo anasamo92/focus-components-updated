@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layout, MenuLeft } from 'focus-components-updated/components';
+import { Layout, MenuLeft } from 'focus-components/components';
 import setHeader from 'focsu-core/application/setHeader';
 
 const CartridgeContent = React.createClass({

@@ -1,4 +1,4 @@
-import { component as FacetBox } from 'focus-components-updated/search/facet-box';
+import { component as FacetBox } from 'focus-components/search/facet-box';
 import { init as i18nInitializer } from 'focus-core-updated/translation';
 
 const resources = {
