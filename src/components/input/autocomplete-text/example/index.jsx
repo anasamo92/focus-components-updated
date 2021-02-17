@@ -1,4 +1,4 @@
-import AutocompleteText from 'focus-components/components/input/autocomplete-text';
+import AutocompleteText from 'focus-components-updated/components/input/autocomplete-text';
 
 const _querySearcher = query => {
     let data = [

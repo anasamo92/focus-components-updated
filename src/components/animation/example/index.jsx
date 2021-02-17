@@ -1,4 +1,4 @@
-import Animation from 'focus-components/components/animation';
+import Animation from 'focus-components-updated/components/animation';
 
 const AnimationExample = React.createClass({
     styleContainer: {

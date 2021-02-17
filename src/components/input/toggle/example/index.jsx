@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Toggle from 'focus-components/components/input/toggle';
+import Toggle from 'focus-components-updated/components/input/toggle';
 
 class InputToggleSample extends Component {
     /**

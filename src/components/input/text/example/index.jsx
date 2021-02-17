@@ -1,4 +1,4 @@
-import Input from 'focus-components/components/input/text';
+import Input from 'focus-components-updated/components/input/text';
 
 class InputTextExample extends React.Component {
 

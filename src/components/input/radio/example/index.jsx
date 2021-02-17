@@ -1,4 +1,4 @@
-import Radio from 'focus-components/components/input/radio';
+import Radio from 'focus-components-updated/components/input/radio';
 
 function InputRadioSample() {
     return (

@@ -12,5 +12,5 @@
 
 ## Versions
 
-Focus-core: [version]
-Focus-components: [version]
+Focus-core-updated: [version]
+Focus-components-updated: [version]

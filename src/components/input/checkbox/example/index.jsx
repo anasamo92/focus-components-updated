@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Checkbox from 'focus-components/components/input/checkbox';
-import CheckboxWithError from 'focus-components/components/input/checkbox/with-error';
+import Checkbox from 'focus-components-updated/components/input/checkbox';
+import CheckboxWithError from 'focus-components-updated/components/input/checkbox/with-error';
 
 class InputCheckboxSample extends Component {
 
