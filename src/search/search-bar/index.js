@@ -1,7 +1,5 @@
 // Dependencies
-import PropTypes from 'prop-types';
-
-import React from 'react';
+import React, { PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 import builder from 'focus-core-updated/component/builder';
 import { translate } from 'focus-core-updated/translation';

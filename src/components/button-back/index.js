@@ -1,5 +1,4 @@
-import PropTypes from 'prop-types';
-import React from 'react';
+import React, { PropTypes } from 'react';
 import Button from '../button';
 import { back as defaultBack } from 'focus-core-updated/history';
 

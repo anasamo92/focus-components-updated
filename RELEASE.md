@@ -6,7 +6,7 @@ In order to release a new version of focus on both **github** and **npm**, you h
 4. Be sure to have the latest version of the release branch with a `git pull origin release`
 5. Merge all changes from **master** branch into **release** branch with a `git merge master`
 6. Perform a `npm run build` (Just to be sure)
-7. Commit all build's product onto the release branch (it consists of the `focus-components.{js,css}` from the `dist` directory).
+7. Commit all build's product onto the release branch (it consists of the `focus-components-updated.{js,css}` from the `dist` directory).
 8. Create a git tag `git tag -a vX.Y.Z -m 'Focus components vX.Y.Z'`
 9. Push the tag on github `git push origin --tags`
 10. Publish the npm package with `npm publish` command
