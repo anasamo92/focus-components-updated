@@ -16,5 +16,5 @@ module.exports = {
         '<rootDir>/node_modules/focus-core-updated'
     ],
     testPathIgnorePatterns: ['/node_modules/', 'fixture.js', '.history', '.localhistory', 'test-focus.jsx'],
-    transformIgnorePatterns: ['/node_modules(?!\/focus-core)/']
+    transformIgnorePatterns: ['/node_modules(?!\/focus-core-updated)/']
 } 
