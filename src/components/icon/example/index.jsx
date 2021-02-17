@@ -1,4 +1,4 @@
-import Icon from 'focus-components/components/icon';
+import Icon from 'focus-components-updated/components/icon';
 
 function IconsExample() {
     return (

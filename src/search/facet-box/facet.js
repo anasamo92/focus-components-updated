@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import builder from 'focus-core/component/builder';
-import { translate } from 'focus-core/translation';
+import builder from 'focus-core-updated/component/builder';
+import { translate } from 'focus-core-updated/translation';
 
 import isObject from 'lodash/lang/isObject';
 import uniqueId from 'lodash/utility/uniqueId';

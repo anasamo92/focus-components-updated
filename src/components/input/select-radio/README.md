@@ -100,8 +100,8 @@ Affichage d'une liste de selection en mode radio bouton.
 - input radio
 
 ## Exemple
-[Exemple de select-radio](https://github.com/KleeGroup/focus-components/blob/master/common/select/radio/example/index.html)
+[Exemple de select-radio](https://github.com/KleeGroup/focus-components-updated/blob/master/common/select/radio/example/index.html)
 ## Test
 todo
 ## Démo
-[Démo de select-radio](http://kleegroup.github.io/focus-components/common/select/radio/example/)
+[Démo de select-radio](http://kleegroup.github.io/focus-components-updated/common/select/radio/example/)

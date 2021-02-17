@@ -1,4 +1,4 @@
-import SelectInput from 'focus-components/components/input/select';
+import SelectInput from 'focus-components-updated/components/input/select';
 
 const valuesExample = [
     { code: 'A', label: 'aaaa' },

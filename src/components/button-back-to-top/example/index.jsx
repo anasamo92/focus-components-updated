@@ -1,5 +1,5 @@
 import React from 'react';
-import ButtonBackToTop from 'focus-components/components/button-back-to-top';
+import ButtonBackToTop from 'focus-components-updated/components/button-back-to-top';
 
 /**
  * Example button.

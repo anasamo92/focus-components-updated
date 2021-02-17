@@ -1,4 +1,4 @@
-import { translate } from 'focus-core/translation';
+import { translate } from 'focus-core-updated/translation';
 import React from 'react';
 import createReactClass from 'create-react-class';
 import searchHeaderMixin from './mixin';

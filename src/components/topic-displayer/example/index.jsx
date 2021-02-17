@@ -1,4 +1,4 @@
-import TopicDisplayer from 'focus-components/components/topic-displayer';
+import TopicDisplayer from 'focus-components-updated/components/topic-displayer';
 
 const topicList = {
     t1: 'Topic 1',

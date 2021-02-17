@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { translate } from 'focus-core/translation';
+import { translate } from 'focus-core-updated/translation';
 import noop from 'lodash/utility/noop'
 
 import Button from '../../components/button';

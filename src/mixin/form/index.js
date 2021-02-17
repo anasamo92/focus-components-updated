@@ -1,4 +1,4 @@
-import builder from 'focus-core/component/builder';
+import builder from 'focus-core-updated/component/builder';
 import React from 'react';
 // Common mixins.
 import definitionMixin from '../definition';

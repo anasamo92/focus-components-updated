@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import { translate } from 'focus-core/translation';
+import { translate } from 'focus-core-updated/translation';
 
 class DraggableIframe extends React.Component {
 

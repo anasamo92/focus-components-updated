@@ -1,5 +1,5 @@
-import message from 'focus-core/message';
-import { changeMode } from 'focus-core/application';
+import message from 'focus-core-updated/message';
+import { changeMode } from 'focus-core-updated/application';
 
 /**
  * Behavior to update state according to stores.

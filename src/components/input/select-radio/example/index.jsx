@@ -1,5 +1,5 @@
-import SelectRadio from 'focus-components/components/input/select-radio';
-import Button from 'focus-components/components/button';
+import SelectRadio from 'focus-components-updated/components/input/select-radio';
+import Button from 'focus-components-updated/components/button';
 
 const values = [
     { code: 'A', label: 'Value A' }, { code: 'B', label: 'Value B' }, { code: 'C', label: 'Value C' }

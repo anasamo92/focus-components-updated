@@ -1,4 +1,4 @@
-import { component as QuickSearch } from 'focus-components/page/search/quick-search';
+import { component as QuickSearch } from 'focus-components-updated/page/search/quick-search';
 
 const QuickSearchExample = React.createClass({
     render() {

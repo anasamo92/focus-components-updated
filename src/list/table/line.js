@@ -1,5 +1,5 @@
 // Dependencies
-import type from 'focus-core/component/types';
+import type from 'focus-core-updated/component/types';
 // Mixins
 import referenceMixin from '../../common/mixin/reference-property';
 import definitionMixin from '../../common/mixin/definition';

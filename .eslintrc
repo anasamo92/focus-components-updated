@@ -1,5 +1,5 @@
 {
-    "extends": "focus",
+    "extends": "updated",
     "globals": {
         "componentHandler": true
     }

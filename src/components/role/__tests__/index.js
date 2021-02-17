@@ -3,7 +3,7 @@ import TestUtils from 'react-dom/test-utils';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import user from 'focus-core/user';
+import user from 'focus-core-updated/user';
 import Role from '../';
 import Input from '../../input/text';
 

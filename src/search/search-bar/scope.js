@@ -1,11 +1,11 @@
-import { translate } from 'focus-core/translation';
+import { translate } from 'focus-core-updated/translation';
 
 import PropTypes from 'prop-types';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import builder from 'focus-core/component/builder';
+import builder from 'focus-core-updated/component/builder';
 import find from 'lodash/collection/find';
 import uniqueId from 'lodash/utility/uniqueId';
 import 'material-design-lite/material';

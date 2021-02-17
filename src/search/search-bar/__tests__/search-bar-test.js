@@ -6,10 +6,10 @@ import ReactDOM from 'react-dom';
 const { renderIntoDocument, Simulate } = TestUtils;
 import identity from 'lodash/utility/identity';
 import { component as SearchBar } from '../../search-bar';
-import { quickSearchStore } from 'focus-core/search/built-in-store';
-import actionBuilder from 'focus-core/search/action-builder';
+import { quickSearchStore } from 'focus-core-updated/search/built-in-store';
+import actionBuilder from 'focus-core-updated/search/action-builder';
 
-import { init } from 'focus-core/translation';
+import { init } from 'focus-core-updated/translation';
 
 const i18nConfig = {
     resources: {},

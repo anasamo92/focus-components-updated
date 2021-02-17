@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import Button from '../button';
-import { back as defaultBack } from 'focus-core/history';
+import { back as defaultBack } from 'focus-core-updated/history';
 
 const propTypes = {
     back: PropTypes.func

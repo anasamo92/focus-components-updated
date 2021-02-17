@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Button } from 'FocusComponents/components';
-import { init } from 'focus-core/translation';
+import { init } from 'focus-core-updated/translation';
 
 const resources = {
     dev: {

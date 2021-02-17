@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import user from 'focus-core/user';
+import user from 'focus-core-updated/user';
 import intersection from 'lodash/array/intersection';
 import isArray from 'lodash/lang/isArray';
 

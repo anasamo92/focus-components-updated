@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import isString from 'lodash/lang/isString';
 
-import { builtInStore as applicationStore } from 'focus-core/application';
+import { builtInStore as applicationStore } from 'focus-core-updated/application';
 
 import { component as ConfirmationModal } from './popin';
 import connect from '../../behaviours/store/connect';

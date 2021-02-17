@@ -4,7 +4,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Panel from '../';
-import { init, translate } from 'focus-core/translation';
+import { init, translate } from 'focus-core-updated/translation';
 
 const i18nConfig = {
     resources: {},

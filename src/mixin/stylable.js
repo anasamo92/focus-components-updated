@@ -1,4 +1,4 @@
-import types from 'focus-core/component/types';
+import types from 'focus-core-updated/component/types';
 
 export default {
     /** @inheritedDocs */

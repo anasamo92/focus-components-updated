@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import Translation from '../../../behaviours/translation';
-import formatter from 'focus-core/definition/formatter/number';
+import formatter from 'focus-core-updated/definition/formatter/number';
 //web components
 import Button from '../../../components/button';
 

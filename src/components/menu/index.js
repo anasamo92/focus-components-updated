@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import { navigate } from 'focus-core/history';
+import { navigate } from 'focus-core-updated/history';
 import Button from '../button';
 
 function MenuItems(props) {

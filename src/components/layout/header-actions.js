@@ -5,7 +5,7 @@ import React from 'react';
 import isObject from 'lodash/lang/isObject';
 import filterProps from '../../utils/filter-html-attributes';
 // Stores
-import applicationStore from 'focus-core/application/built-in-store';
+import applicationStore from 'focus-core-updated/application/built-in-store';
 // Components
 import Button from '../../components/button';
 import Dropdown from '../../components/icon-dropdown';

@@ -3,7 +3,7 @@ import { renderIntoDocument, Simulate } from 'react-dom/test-utils';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { init } from 'focus-core/translation';
+import { init } from 'focus-core-updated/translation';
 
 import Select from '../';
 

@@ -1,7 +1,7 @@
 // Dependencies
 import React from 'react';
-import { translate } from 'focus-core/translation';
-import builder from 'focus-core/component/builder';
+import { translate } from 'focus-core-updated/translation';
+import builder from 'focus-core-updated/component/builder';
 
 import mapValues from 'lodash/object/mapValues';
 import omit from 'lodash/object/omit';

@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import AutocompleteSelectEdit from './edit';
 import AutocompleteSelectConsult from './consult';
-import translation from 'focus-core/translation';
+import translation from 'focus-core-updated/translation';
 
 class AutocompleteSelectField extends Component {
 

@@ -1,5 +1,5 @@
-import Grid from 'focus-components/components/grid';
-import Column from 'focus-components/components/column';
+import Grid from 'focus-components-updated/components/grid';
+import Column from 'focus-components-updated/components/column';
 
 function GreySquare({ label }) {
     return (

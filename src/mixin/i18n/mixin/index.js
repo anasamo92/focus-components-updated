@@ -1,4 +1,4 @@
-import translation from 'focus-core/translation'
+import translation from 'focus-core-updated/translation'
 
 /*global window*/
 /*todo check the library presence*/

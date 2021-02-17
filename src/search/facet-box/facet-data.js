@@ -1,7 +1,7 @@
 import React from 'react';
-import builder from 'focus-core/component/builder';
-import { ArgumentInvalidException } from 'focus-core/exception';
-import numberFormatter from 'focus-core/definition/formatter/number';
+import builder from 'focus-core-updated/component/builder';
+import { ArgumentInvalidException } from 'focus-core-updated/exception';
+import numberFormatter from 'focus-core-updated/definition/formatter/number';
 
 const FacetData = {
     getDefaultProps() {

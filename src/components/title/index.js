@@ -2,8 +2,8 @@
 import PropTypes from 'prop-types';
 
 import React, { Component } from 'react';
-import builder from 'focus-core/component/builder';
-import type from 'focus-core/component/types';
+import builder from 'focus-core-updated/component/builder';
+import type from 'focus-core-updated/component/types';
 import uniqueId from 'lodash/utility/uniqueId';
 
 class Title extends Component {

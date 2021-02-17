@@ -1,9 +1,9 @@
 // Dependencies
 import React from 'react';
 import ReactDOM from 'react-dom';
-import builder from 'focus-core/component/builder';
-import types from 'focus-core/component/types';
-import { ArgumentInvalidException } from 'focus-core/exception';
+import builder from 'focus-core-updated/component/builder';
+import types from 'focus-core-updated/component/types';
+import { ArgumentInvalidException } from 'focus-core-updated/exception';
 import Overlay from './overlay';
 
 /**

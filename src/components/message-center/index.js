@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import capitalize from 'lodash/string/capitalize';
-import messageStore from 'focus-core/message/built-in-store';
-import { translate } from 'focus-core/translation';
+import messageStore from 'focus-core-updated/message/built-in-store';
+import { translate } from 'focus-core-updated/translation';
 
 const defaultProps = {
     ttlError: 8000,

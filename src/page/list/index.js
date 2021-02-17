@@ -8,9 +8,9 @@ import React from 'react';
 import camelCase from 'lodash/string/camelCase';
 import capitalize from 'lodash/string/capitalize';
 
-import builder from 'focus-core/component/builder';
-import types from 'focus-core/component/types';
-import actionBuilder from 'focus-core/list/action-builder';
+import builder from 'focus-core-updated/component/builder';
+import types from 'focus-core-updated/component/types';
+import actionBuilder from 'focus-core-updated/list/action-builder';
 import assign from 'object-assign';
 import { component as DEFAULT_LIST_COMPONENT } from '../../list/table/list';
 

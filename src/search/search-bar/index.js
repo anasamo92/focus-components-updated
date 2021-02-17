@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import builder from 'focus-core/component/builder';
-import { translate } from 'focus-core/translation';
+import builder from 'focus-core-updated/component/builder';
+import { translate } from 'focus-core-updated/translation';
 
 import actionWrapper from '../../page/search/search-header/action-wrapper';
 

@@ -2,7 +2,7 @@
 import PropTypes from 'prop-types';
 
 import React from 'react';
-import { translate } from 'focus-core/translation';
+import { translate } from 'focus-core-updated/translation';
 
 function Label({ name, text, isRequired }) {
     const content = text || name;

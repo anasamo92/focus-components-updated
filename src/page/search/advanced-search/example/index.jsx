@@ -1,6 +1,6 @@
-import { component as AdvancedSearch } from 'focus-components/page/search/advanced-search';
-import { init as i18nInitializer } from 'focus-core/translation';
-import { mixin as linePreset } from 'focus-components/list/selection/line';
+import { component as AdvancedSearch } from 'focus-components-updated/page/search/advanced-search';
+import { init as i18nInitializer } from 'focus-core-updated/translation';
+import { mixin as linePreset } from 'focus-components-updated/list/selection/line';
 
 const resources = {
     dev: {

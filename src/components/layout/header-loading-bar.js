@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { builtInStore as requestStore } from 'focus-core/network';
+import { builtInStore as requestStore } from 'focus-core-updated/network';
 
 // import storeConnect from '../../behaviours/store/connect';
 import ProgressBar from '../progress-bar';

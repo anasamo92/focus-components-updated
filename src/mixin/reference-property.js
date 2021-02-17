@@ -1,4 +1,4 @@
-import type from 'focus-core/component/types';
+import type from 'focus-core-updated/component/types';
 
 let referenceMixin = {
     /** @inheritdoc */

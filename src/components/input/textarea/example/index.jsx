@@ -1,4 +1,4 @@
-import TextArea from 'focus-components/components/input/textarea';
+import TextArea from 'focus-components-updated/components/input/textarea';
 
 const InputTextAreaSample = React.createClass({
 

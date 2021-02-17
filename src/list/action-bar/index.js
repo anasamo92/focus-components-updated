@@ -2,7 +2,7 @@
 import PropTypes from 'prop-types';
 
 import React from 'react';
-import builder from 'focus-core/component/builder';
+import builder from 'focus-core-updated/component/builder';
 import reduce from 'lodash/collection/reduce';
 // Components
 import Dropdown from '../../components/dropdown';

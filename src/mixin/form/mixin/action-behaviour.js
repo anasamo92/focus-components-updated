@@ -1,7 +1,7 @@
 import isFunction from 'lodash/lang/isFunction';
 import omit from 'lodash/object/omit';
 
-import FocusException from 'focus-core/exception/focus-exception';
+import FocusException from 'focus-core-updated/exception/focus-exception';
 
 let actionMixin = {
 

@@ -1,7 +1,7 @@
 //dependencies
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import { translate } from 'focus-core/translation';
+import { translate } from 'focus-core-updated/translation';
 import { v4 as uuid } from 'uuid';
 import isUndefined from 'lodash/lang/isUndefined';
 import isNull from 'lodash/lang/isNull';

@@ -1,4 +1,4 @@
-import {translate} from 'focus-core/translation';
+import {translate} from 'focus-core-updated/translation';
 
 const Translation = Component => class TranslatedComponent extends Component {
     constructor(props) {
