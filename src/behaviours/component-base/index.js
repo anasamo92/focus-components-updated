@@ -1,5 +1,5 @@
 import TranslationBehaviour from '../translation';
-import flow from 'lodash/function/flow';
+import {flow} from 'lodash';
 
 /**
  * Component base is an annotation used to combine all the standard annotation of a component.

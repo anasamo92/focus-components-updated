@@ -2,8 +2,8 @@
 import PropTypes from 'prop-types';
 
 import React from 'react';
-import find from 'lodash/collection/find';
-import result from 'lodash/object/result';
+import {find} from 'lodash';
+import {result} from 'lodash';
 import { addRefToPropsIfNotPure, INPUT, DISPLAY } from '../../../utils/is-react-class-component';
 // Components
 import AutocompleteSelectComponent from '../../../components/input/autocomplete-select/field';

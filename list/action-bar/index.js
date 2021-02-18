@@ -1,7 +1,7 @@
 // Dependencies
 import React, { PropTypes } from 'react';
 import builder from 'focus-core-updated/component/builder';
-import reduce from 'lodash/collection/reduce';
+import {reduce} from 'lodash';
 // Components
 import Dropdown from '../../components/dropdown';
 import { component as ActionContextual } from '../action-contextual';

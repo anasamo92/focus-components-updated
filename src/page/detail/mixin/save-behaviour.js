@@ -1,4 +1,4 @@
-import isFunction from 'lodash/lang/isFunction';
+import {isFunction} from 'lodash';
 import assign from 'object-assign';
 
 export default {

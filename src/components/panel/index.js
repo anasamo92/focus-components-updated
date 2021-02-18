@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import Translation from '../../behaviours/translation';
-import uniqueId from 'lodash/utility/uniqueId';
-import snakeCase from 'lodash/string/snakeCase';
+import {uniqueId} from 'lodash';
+import {snakeCase} from 'lodash';
 import ButtonHelp from '../button-help';
 
 const defaultProps = {

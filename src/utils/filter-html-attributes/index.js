@@ -1,5 +1,5 @@
 import { inputHtmlAttributes, eventHtmlAttributes } from './react-html-attributes';
-import pairs from 'lodash/object/pairs';
+import {pairs} from 'lodash';
 
 /**
  * Filter the incoming props, so only valid props for native HTML elements are passed through.

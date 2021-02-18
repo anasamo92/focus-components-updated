@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import isFunction from 'lodash/lang/isFunction';
-import isArray from 'lodash/lang/isArray';
-import capitalize from 'lodash/string/capitalize'
+import {isFunction} from 'lodash';
+import {isArray} from 'lodash';
+import {capitalize} from 'lodash';
 
 /**
  * Behavior for store connection.

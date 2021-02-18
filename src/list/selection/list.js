@@ -3,8 +3,8 @@ import React from 'react';
 import builder from 'focus-core-updated/component/builder';
 import types from 'focus-core-updated/component/types';
 
-import reduce from 'lodash/collection/reduce';
-import isArray from 'lodash/lang/isArray';
+import {reduce} from 'lodash';
+import {isArray} from 'lodash';
 
 //Add a ref to the props if the component is not pure add nothing in the other case.
 import { addRefToPropsIfNotPure, LINE } from '../../utils/is-react-class-component';

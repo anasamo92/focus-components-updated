@@ -3,7 +3,7 @@ import ComponentBaseBehaviour from '../../../behaviours/component-base';
 import MDBehaviour from '../../../behaviours/material';
 import filterProps from '../../../utils/filter-html-attributes';
 
-import debounce from 'lodash/function/debounce';
+import {debounce} from 'lodash';
 
 @MDBehaviour('materialInput')
 @MDBehaviour('loader')

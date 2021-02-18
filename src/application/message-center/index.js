@@ -3,7 +3,7 @@ import React from 'react';
 import messageStore from 'focus-core-updated/message/built-in-store';
 import { component as Message } from '../../message';
 import assign from 'object-assign';
-import capitalize from 'lodash/string/capitalize';
+import {capitalize} from 'lodash';
 
 let messageCenterMixin = {
     getDefaultProps() {

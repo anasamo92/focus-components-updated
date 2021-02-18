@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { translate } from 'focus-core-updated/translation';
-import noop from 'lodash/utility/noop'
+import {noop} from 'lodash'
 
 import Button from '../../components/button';
 import MDBehaviour from '../../behaviours/material';

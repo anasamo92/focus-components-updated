@@ -1,7 +1,7 @@
 //Focus.reference.builder.loadListByName('papas').then(function(data){Focus.dispatcher.dispatch({action: {type: "update",data: {papas: data}}})})
 import storeGetter from 'focus-core-updated/reference/built-in-store';
 import builtInActionReferenceLoader from 'focus-core-updated/reference/built-in-action';
-import difference from 'lodash/array/difference';
+import {difference} from 'lodash';
 
 const referenceMixin = {
 

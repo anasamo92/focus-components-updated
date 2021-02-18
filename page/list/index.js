@@ -5,8 +5,8 @@
 //- be paginated
 //- be displayed in any list container.
 import React from 'react';
-import camelCase from 'lodash/string/camelCase';
-import capitalize from 'lodash/string/capitalize';
+import {camelCase} from 'lodash';
+import {capitalize} from 'lodash';
 
 import builder from 'focus-core-updated/component/builder';
 import types from 'focus-core-updated/component/types';

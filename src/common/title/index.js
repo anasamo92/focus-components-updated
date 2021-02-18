@@ -2,7 +2,7 @@
 import React from 'react';
 import builder from 'focus-core-updated/component/builder';
 import type from 'focus-core-updated/component/types';
-import uniqueId from 'lodash/utility/uniqueId';
+import {uniqueId} from 'lodash';
 
 const titleMixin = {
 

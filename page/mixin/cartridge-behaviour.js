@@ -1,4 +1,4 @@
-import isFunction from 'lodash/lang/isFunction';
+import {isFunction} from 'lodash';
 import { setHeader } from 'focus-core-updated/application';
 
 const cartridgeBehaviour = {

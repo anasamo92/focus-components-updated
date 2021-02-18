@@ -8,7 +8,7 @@ import { init } from 'focus-core-updated/translation';
 import Select from '../';
 
 const { renderIntoDocument, Simulate } = TestUtils;
-import identity from 'lodash/utility/identity';
+import {identity} from 'lodash';
 import fixture from './fixture';
 //onChangeSpy = jest.fn();
 

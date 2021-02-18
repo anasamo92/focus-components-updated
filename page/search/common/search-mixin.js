@@ -1,5 +1,5 @@
 // Dependencies
-import isFunction from 'lodash/lang/isFunction';
+import {isFunction} from 'lodash';
 // Stores
 import { BuiltInSearchStore } from 'focus-core-updated/search';
 

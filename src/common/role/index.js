@@ -2,8 +2,8 @@ import React from 'react';
 import builder from 'focus-core-updated/component/builder';
 import user from 'focus-core-updated/user';
 
-import intersection from 'lodash/array/intersection';
-import isArray from 'lodash/lang/isArray';
+import {intersection} from 'lodash';
+import {isArray} from 'lodash';
 
 import type from 'focus-core-updated/component/types';
 

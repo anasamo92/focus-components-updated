@@ -1,5 +1,5 @@
 
-import pull from 'lodash/array/pull';
+import {pull} from 'lodash';
 const possibleValues = [{ value: 'A', label: 'Value A' }, { value: 'B', label: 'Value B' }, { value: 'C', label: 'Value C' }, { value: 'D', label: 'Value D' }];
 
 const SelectCheckboxSample = React.createClass({

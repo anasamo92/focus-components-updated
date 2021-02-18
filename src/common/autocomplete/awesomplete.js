@@ -4,9 +4,9 @@ import ReactDOM from 'react-dom';
 // Dependencies
 import builder from 'focus-core-updated/component/builder';
 import types from 'focus-core-updated/component/types';
-import find from 'lodash/collection/find';
+import {find} from 'lodash';
 import InputText from '../../components/input/text';
-import debounce from 'lodash/function/debounce';
+import {debounce} from 'lodash';
 import './lib/awesomplete';
 
 /**

@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react';
-import isString from 'lodash/lang/isString';
+import {isString} from 'lodash';
 
 import { builtInStore as applicationStore } from 'focus-core-updated/application';
 

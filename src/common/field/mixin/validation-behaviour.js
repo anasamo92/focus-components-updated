@@ -1,13 +1,13 @@
 
 import validate from 'focus-core-updated/definition/validator/validate';
 
-import isNull from 'lodash/lang/isNull';
-import isUndefined from 'lodash/lang/isUndefined';
-import isArray from 'lodash/lang/isArray';
-import isString from 'lodash/lang/isString';
-import isObject from 'lodash/lang/isObject';
-import isFunction from 'lodash/lang/isFunction';
-import isEmpty from 'lodash/lang/isEmpty';
+import {isNull} from 'lodash';
+import {isUndefined} from 'lodash';
+import {isArray} from 'lodash';
+import {isString} from 'lodash';
+import {isObject} from 'lodash';
+import {isFunction} from 'lodash';
+import {isEmpty} from 'lodash';
 
 import { mixin as i18nMixin } from '../../i18n';
 

@@ -1,10 +1,10 @@
 //Dependencies
 import React, { Component, PropTypes } from 'react';
-import isNull from 'lodash/lang/isNull';
-import isUndefined from 'lodash/lang/isUndefined';
-import isArray from 'lodash/lang/isArray';
-import isString from 'lodash/lang/isString';
-import isObject from 'lodash/lang/isObject';
+import {isNull} from 'lodash';
+import {isUndefined} from 'lodash';
+import {isArray} from 'lodash';
+import {isString} from 'lodash';
+import {isObject} from 'lodash';
 
 // Import from focus-core 
 // We need to investigate why import {getEntityInformations} from 'focus-core-updated/entity/builder' didn't work, maybe an ES2015 related issue with babel.

@@ -3,14 +3,14 @@ import React from 'react';
 import { translate } from 'focus-core-updated/translation';
 import builder from 'focus-core-updated/component/builder';
 
-import mapValues from 'lodash/object/mapValues';
-import omit from 'lodash/object/omit';
+import {mapValues} from 'lodash';
+import {omit} from 'lodash';
 
-import clone from 'lodash/lang/clone';
-import isArray from 'lodash/lang/isArray';
+import {clone} from 'lodash';
+import {isArray} from 'lodash';
 
-import map from 'lodash/collection/map';
-import groupBy from 'lodash/collection/groupBy';
+import {map} from 'lodash';
+import {groupBy} from 'lodash';
 
 // Components
 import DefaultEmpty from './default-empty-component';

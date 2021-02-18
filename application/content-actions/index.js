@@ -1,5 +1,5 @@
 // Libs
-import isObject from 'lodash/lang/isObject';
+import {isObject} from 'lodash';
 // Dependencies
 import builder from 'focus-core-updated/component/builder';
 // Stores

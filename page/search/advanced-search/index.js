@@ -2,10 +2,10 @@
 import React from 'react';
 import builder from 'focus-core-updated/component/builder';
 import dispatcher from 'focus-core-updated/dispatcher';
-import camel from 'lodash/string/camelCase';
-import capitalize from 'lodash/string/capitalize';
-import isFunction from 'lodash/lang/isFunction';
-import reduce from 'lodash/collection/reduce';
+import {camel} from 'lodash';
+import {capitalize} from 'lodash';
+import {isFunction} from 'lodash';
+import {reduce} from 'lodash';
 // Components
 import { component as FacetBox } from './facet-box';
 import { component as ListActionBar } from './action-bar';

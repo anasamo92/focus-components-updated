@@ -4,7 +4,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const { renderIntoDocument, Simulate } = TestUtils;
-import identity from 'lodash/utility/identity';
+import {identity} from 'lodash';
 import { component as SearchBar } from '../../search-bar';
 import { quickSearchStore } from 'focus-core-updated/search/built-in-store';
 import actionBuilder from 'focus-core-updated/search/action-builder';

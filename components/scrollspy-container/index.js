@@ -4,11 +4,11 @@ import BackToTop from '../button-back-to-top'
 import StickyMenu from './sticky-menu';
 import Scroll from '../../behaviours/scroll';
 
-import debounce from 'lodash/function/debounce';
-import filter from 'lodash/collection/filter';
-import first from 'lodash/array/first';
-import last from 'lodash/array/last';
-import xor from 'lodash/array/xor';
+import {debounce} from 'lodash';
+import {filter} from 'lodash';
+import {first} from 'lodash';
+import {last} from 'lodash';
+import {xor} from 'lodash';
 
 
 const BackToTopComponent = BackToTop;

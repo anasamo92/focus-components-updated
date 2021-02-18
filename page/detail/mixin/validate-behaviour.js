@@ -1,5 +1,5 @@
-import isFunction from 'lodash/lang/isFunction';
-import isEmpty from 'lodash/lang/isEmpty';
+import {isFunction} from 'lodash';
+import {isEmpty} from 'lodash';
 
 import assign from 'object-assign';
 

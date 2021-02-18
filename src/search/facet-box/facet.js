@@ -2,8 +2,8 @@ import React, { PropTypes } from 'react';
 import builder from 'focus-core-updated/component/builder';
 import { translate } from 'focus-core-updated/translation';
 
-import isObject from 'lodash/lang/isObject';
-import uniqueId from 'lodash/utility/uniqueId';
+import {isObject} from 'lodash';
+import {uniqueId} from 'lodash';
 // Components
 import { component as FacetData } from './facet-data';
 

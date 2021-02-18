@@ -1,6 +1,6 @@
 // Libs
 import React, { PropTypes } from 'react';
-import isObject from 'lodash/lang/isObject';
+import {isObject} from 'lodash';
 import filterProps from '../../utils/filter-html-attributes';
 // Stores
 import applicationStore from 'focus-core-updated/application/built-in-store';

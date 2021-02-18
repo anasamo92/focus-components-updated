@@ -3,7 +3,7 @@ import builder from 'focus-core-updated/component/builder';
 import type from 'focus-core-updated/component/types';
 import { translate } from 'focus-core-updated/translation';
 import assign from 'object-assign';
-import omit from 'lodash/object/omit';
+import {omit} from 'lodash';
 
 // Components
 import { component as Facet } from './facet';

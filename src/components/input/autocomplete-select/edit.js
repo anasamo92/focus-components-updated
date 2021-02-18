@@ -3,8 +3,8 @@ import ComponentBaseBehaviour from '../../../behaviours/component-base';
 import MDBehaviour from '../../../behaviours/material';
 import filterProps from '../../../utils/filter-html-attributes';
 import closest from 'closest';
-import debounce from 'lodash/function/debounce';
-import uniqueId from 'lodash/utility/uniqueId';
+import {debounce} from 'lodash';
+import {uniqueId} from 'lodash';
 
 const ENTER_KEY_CODE = 13;
 const TAB_KEY_CODE = 27;

@@ -1,8 +1,8 @@
 import assign from 'object-assign';
 
-import isUndefined from 'lodash/lang/isUndefined';
-import isObject from 'lodash/lang/isObject';
-import identity from 'lodash/utility/identity';
+import {isUndefined} from 'lodash';
+import {isObject} from 'lodash';
+import {identity} from 'lodash';
 
 const fieldBehaviourMixin = {
     _modifiedFields: [],

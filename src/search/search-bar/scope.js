@@ -4,8 +4,8 @@ import React, { PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 
 import builder from 'focus-core-updated/component/builder';
-import find from 'lodash/collection/find';
-import uniqueId from 'lodash/utility/uniqueId';
+import {find} from 'lodash';
+import {uniqueId} from 'lodash';
 import 'material-design-lite/material';
 
 // Components

@@ -1,7 +1,7 @@
 import assign from 'object-assign';
 
-import isFunction from 'lodash/lang/isFunction';
-import omit from 'lodash/object/omit';
+import {isFunction} from 'lodash';
+import {omit} from 'lodash';
 
 import FocusException from 'focus-core-updated/exception/focus-exception';
 

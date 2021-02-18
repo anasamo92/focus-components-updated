@@ -3,10 +3,10 @@ import React, { Component, PropTypes } from 'react';
 import { translate } from 'focus-core-updated/translation';
 import ComponentBaseBehaviour from '../../../behaviours/component-base';
 import filterProps from '../../../utils/filter-html-attributes';
-import isUndefined from 'lodash/lang/isUndefined';
-import isNull from 'lodash/lang/isNull';
+import {isUndefined} from 'lodash';
+import {isNull} from 'lodash';
 
-import union from 'lodash/array/union';
+import {union} from 'lodash'
 const UNSELECTED_KEY = 'UNSELECTED_KEY';
 
 /**

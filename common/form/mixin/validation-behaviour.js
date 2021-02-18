@@ -1,5 +1,5 @@
 //Dependencies.
-import isFunction from 'lodash/lang/isFunction';
+import {isFunction} from 'lodash';
 
 /**
 * Validate each field of the form.
